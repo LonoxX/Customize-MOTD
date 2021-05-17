@@ -22,7 +22,7 @@ Customize your MOTD login message in Debian and Ubuntu
    ```
 4. Restart the ssh service
 
-```bash
+   ```bash
     service ssh reload
     ```
 
