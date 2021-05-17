@@ -32,4 +32,4 @@ Customize your MOTD login message in Debian and Ubuntu
 Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf)
 
 #### © 2021 Panda-Network
-````
+
