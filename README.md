@@ -12,11 +12,11 @@ Customize your MOTD login message in Debian and Ubuntu
 
    This stops printing from the plaintext /etc/motd and lets us print our own content.
 
-2. Now we'll place our shell script into /etc/profile
+2. Now we'll place our shell script into /etc/profile.d
    ```bash
    /path_to_file/welcome.sh
    ```
-3. give the file the necessary rights to execute
+3. Give the file the necessary rights to execute
    ```
    chmod +x /path_to_file/welcome.sh
    ```
@@ -25,11 +25,10 @@ Customize your MOTD login message in Debian and Ubuntu
    ```bash
     service ssh reload
     ```
-
-
-## Support
-
-Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf)
+<br>
 
 #### © 2021 Panda-Network
+> Webseite: [Panda-Network.de](https://panda-network.de) \
+> Support [Discord-Server](https://discord.gg/z8ScRvf)
+
 
