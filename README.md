@@ -14,11 +14,11 @@ Customize your MOTD login message in Debian and Ubuntu
 
 2. Now we'll place our shell script into /etc/profile.d
    ```bash
-   /path_to_file/welcome.sh
+   /etc/profile.d/welcome.sh
    ```
 3. Give the file the necessary rights to execute
    ```
-   chmod +x /path_to_file/welcome.sh
+   chmod +x /etc/profile.d/welcome.sh
    ```
 4. Restart the ssh service
 
