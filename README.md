@@ -27,7 +27,8 @@ Customize your MOTD login message in Debian and Ubuntu
     ```
 <br>
 
-#### © 2021 Panda-Network
+#### © 2019 - 2023 Panda-Network
+
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf)
 
